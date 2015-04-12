@@ -1,0 +1,6 @@
+[submodule "src/genericons"]
+	path = src/genericons
+	url = https://Pushplaybang@github.com/Automattic/Genericons.git
+[submodule "src/font-awesome"]
+	path = src/font-awesome
+	url = https://Pushplaybang@github.com/FortAwesome/Font-Awesome.git
