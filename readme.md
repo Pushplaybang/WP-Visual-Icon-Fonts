@@ -51,13 +51,13 @@ This section describes how to install the plugin and get it working.
 
 # Frequently Asked Questions
 
-### In the visual editor ?
+#### In the visual editor ?
 Hellz yeah! you'll see those little critters right in there.  Click the drop down, search or peruse, click and it'll be visible in your content, highlight it and add a little color, maybe a font size, go crazy  - you deserve to live a little.
 
-### Are the icons really awesome? 
+#### Are the icons really awesome? 
 
 Damn skippy, The initial plugin release contains the fantastic Font Awesome 4 font icon set and future versions will allow you to select between various font icon sets, as well as apply as many of the additional font awesome features as I can manage to include, and make user friendly via the editor.
 
-### what about a shortcode, because I don't like to actually see my content in the editor, I much prefer to fiddle about with such things, and I want a little more flexibility? 
+#### what about a shortcode, because I don't like to actually see my content in the editor, I much prefer to fiddle about with such things, and I want a little more flexibility? 
 
 Its coming, please be patient, I will allow full access to font awesome via a shortcode as a plugin option soon along with many other cool features.
