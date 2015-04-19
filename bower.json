@@ -1,0 +1,20 @@
+{
+  "name": "wp-visual-icon-fonts",
+  "version": "0.0.0",
+  "authors": [
+    "Paul van Zyl <paul@nonacreative.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Pushplaybang/WP-Visual-Icon-Fonts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.3.0",
+    "Genericons": "https://github.com/Automattic/Genericons.git#~3.0.3"
+  }
+}
